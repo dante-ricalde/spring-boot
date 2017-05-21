@@ -1,0 +1,5 @@
+I have read: http://projects.spring.io/spring-boot/ (100%)
+I have generated a very basic project using SPRING INITIALIZR and I have started using the Boot Dashborad from STS (100%)
+I am goind to generate a web project to test it using SPRING INITIALIZER
+I need to study all the documentation about spring boot: http://docs.spring.io/spring-boot/docs/1.5.3.RELEASE/reference/htmlsingle/
+I need to install the Spring Boot CLI to operate the projects from command line instead of using the Boot Dashboard from STS

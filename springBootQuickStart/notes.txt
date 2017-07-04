@@ -1,0 +1,2 @@
+to start a spring boot app using spring boot cli:
+	~/Downloads/spring-1.5.4.RELEASE/bin$ ./spring run /home/dante/misPracticas/spring-boot/springBootQuickStart/app.groovy

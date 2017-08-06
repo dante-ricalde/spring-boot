@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 06 14:36:27 PET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015d-b90c-747c-00000e4525a0 
+on database directory memory:/home/dante/misPracticas/spring-boot/course-api-data/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/home/dante/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/dante/misPracticas/spring-boot/course-api-data
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-30-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

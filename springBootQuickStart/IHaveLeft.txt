@@ -5,3 +5,4 @@ Spring Boot Quick Start 12 - Returning Objects From Controller 00:00
 Spring Boot Quick Start 17 - Creating a business service 00:00
 Spring Boot Quick Start 21 - Unit Overview 00:00
 Spring Boot Quick Start 25 - Using application properties 2:11
+Spring Boot Quick Start 29 - Making Crud Operations with Repository
